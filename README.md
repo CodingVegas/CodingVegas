@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amy Monzione
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning Java and practicing JavaScript, HTML, CSS, & React.
+- 🌱 I’m currently learning MySql and practicing Jave, JavaScript, HTML, CSS, & React.
 
 
 <!---
